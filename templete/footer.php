@@ -12,7 +12,7 @@ class Footer {
 			echo '<footer id="footer">
                 <div class="container">
                     <div class="col-md-8">
-                        <p class="copyright">Copyright: <span>2016</span>&nbsp;UNClab &nbsp;&nbsp;&nbsp; &nbsp;Made by <strong>SeungwanJo</strong></p>
+                        <p class="copyright">Copyright: <span>2016</span>&nbsp;UNClab &nbsp;&nbsp;&nbsp; &nbsp;Made by <strong><a href="mailto:wh7923@gmail.com">SeungwanJo</a></strong></p>
                     </div>
                     <div class="col-md-4">
                         <!-- Social Media -->

@@ -5,7 +5,7 @@
 		@filesource
 		@author SeungwanJo <wh7923@gmail.com>
 		@copyright 2016 Unclab
-		@version [ 1.0.0 ]
+		@version [ 1.1.0 ]
 	**/
 class Footer {
 	public static function render(){

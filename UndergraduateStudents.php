@@ -113,6 +113,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
+            
             <div class="col-md-2"></div>
             <div class="col-md-3">
                 <div class="team-member   "  >
@@ -127,6 +128,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
+
             <div class="col-md-2"></div>
         </div>
         <div class="row">

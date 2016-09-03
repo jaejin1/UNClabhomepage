@@ -99,7 +99,6 @@ Header Section Start
     <div class="container">
         <div class="row">
             <h2 class="subtitle text-center">U.R Students</h2>
-            <div class="col-md-2"></div>
             <div class="col-md-3">
                 <div class="team-member   "  >
                     <div class="team-img">
@@ -113,8 +112,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
-            
-            <div class="col-md-2"></div>
+            <div class="col-md-1"></div>
             <div class="col-md-3">
                 <div class="team-member   "  >
                     <div class="team-img">
@@ -128,11 +126,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
-
-            <div class="col-md-2"></div>
-        </div>
-        <div class="row">
-
+            <div class="col-md-1"></div>
             <div class="col-md-3">
                 <div class="team-member   "  >
                     <div class="team-img">
@@ -146,7 +140,8 @@ Header Section Start
                     </p>
                 </div>
             </div>
-            <div class="col-md-1"></div>
+        </div>
+        <div class="row">
             <div class="col-md-3">
                 <div class="team-member   "  >
                     <div class="team-img">
@@ -171,6 +166,20 @@ Header Section Start
                     <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
                     <p>
                         <i class="ion-android-mail"></i>  soobin950@gmail.com
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-3">
+                <div class="team-member   "  >
+                    <div class="team-img">
+                        <img src="images/team/jaejin.jpg" class="team-pic" alt="">
+                    </div>
+                    <h3 class="team_name">Jaejin Lee</h3>
+                    <p class="team_designation">Sophomore</p>
+                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
+                    <p>
+                        <i class="ion-android-mail"></i>  opiximeo@gmail.com
                     </p>
                 </div>
             </div>

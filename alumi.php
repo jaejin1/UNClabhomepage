@@ -249,7 +249,12 @@ Header Section Start
             </div>
             <div class="col-md-3">
                 <div class="team-member  "  >
-
+                    <h3 class="team_name">조승완</h3>
+                    <p class="team_designation">BS</p>
+                    <p class="team_text">NHN Entertainment</p>
+                    <p>
+                        <i class="ion-android-mail">wh7923@gmail.com</i>
+                    </p>
                 </div>
             </div>
             <div class="col-md-3">

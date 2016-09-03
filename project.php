@@ -106,6 +106,8 @@ Header Section Start
                     <h3>Current Research Projects</h3>
                     <h4 class="count">Number of Project :  </h4>
                     <ul>
+                        <li>- 2016.06.01 - 2019.05.31, IoT 기반 모바일 스마트 태양광발전 관제시스템, Ministry of Science, ICT and Future Planning (미래창조과학부/한국연구재단)</li>
+                        <li>- 2016.06.01 - 2016.11.30, 가시광통신시스템을 이용한 실내 IoT 시스템, KOREA SCIENCE AND ENGINEERING FOUNDATION (한국과학재단)</li>
                         <li>- 2015.09.01 - 2016.06.30, 사용자 환경(UX·UI)을 극대화한 SPICE기반 모바일 전용 가상화 클라이언트 개발, Ministry of Science, ICT and Future Planning (미래창조과학부)</li>
                         <li>- 2013.12.01 - 2014.11.30, 태양광 발전설비 모니터링 시스템개발, Korea Small and Medium Business Administration (중소기업청)</li>
                         <li>- 2012.12.01 - 2015.11.30, Network Coding based Cooperative Transmission and Cooperative Routing in Mobile Cognitive Ad-Hoc Wireless Networks, <br>KOREA RESEARCH FOUNDATION(한국연구재단)</li>

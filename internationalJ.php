@@ -103,6 +103,10 @@ Header Section Start
                 <div class="block" style="text-align:justify">
                     <h3 class="count">International Journals :  </h3>
                     <ul>
+                        <li>- An Analysis Modeling Architecture for Supporting Physical Layer Security of Wireless Networks Under Hardware Impairments, SERSC, Accpted to be Published, May 2016</li>
+                        <li>- EHER: An Energy Harvesting Aware Entropy Based Routing Protocol in Mobile Ad-hoc , SERSC, Accpted to be Published, July 2016</li>
+                        <li>- Performance Analysis of Multirelay RF Energy Harvesting Cooperative Networks with Hardware Impairments, IET Communications, Accpted to be Published, June 2016</li>
+                        <li>- Outage Performance Analysis of Relay Selection Schemes in Wireless Energy Harvesting Cooperative Networks over Non-Identical Rayleigh Fading Channels, Sensors, vol. 16, February 2016.</li>
                         <li>- A modeling framework for supporting and evaluating connectivity in cognitive radio ad-hoc networks with beamforming, WIRELESS NETWORKS, vol. 22(2016), no 3, April 2016.</li>
                         <li>- Outage Performance Analysis of Relay Selection Schemes in Wireless Energy Harvesting Cooperative Networks over Non-Identical Rayleigh Fading Channels, SENSORS, Sensor 2016, 16(295), February 2016.</li>
                         <li>- Connectivity Analysis of Cognitive radio Ad-hoc Networks with Shadow Fading, KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS vol.9, no.9,  September 2015.</li>

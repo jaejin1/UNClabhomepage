@@ -117,7 +117,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <h4>Education</h4>
                             <ul>
                                 <li> - 2002: PhD, New Jersey Institute of Technology (NJIT), Dept. of Electrical and Computer Engineering, New Jersey,USA</li>
-                                <li> - 1996: MS, New York University (Polytechnic Univ.), Dept. of Electrical and Computer Engineering, New York, USA</li>
+                                <li> - 1996: MS, New York University (Polytechnic), Dept. of Electrical and Computer Engineering, New York, USA</li>
                                 <li> - 1988: BS, Kyungpook National University, Electronic Engineering, Daegu, Republic of Korea</li>
                             </ul>
                             <h4>Work Experience</h4>
@@ -129,7 +129,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <h4>Honours and/or Awards</h4>
                             <ul>
                                 <li> - 2005 - 2011: Marquis Who's  Who in Science and Engineering (was listed)</li>
-                                <li> - 2006 - 2013: Marquis Who's  Who in the World (was listed)</li>
+                                <li> - 2007 - 2015: Marquis Who's  Who in the World (was listed)</li>
                                 <li> - 2007, 2010: IBC (was listed)</li>
                                 <li> - 2007: Haedong Prize (IEEK), Korea </li>
                                 <li> - 2001: Best Award Paper, KSEA, USA</li>
@@ -137,25 +137,26 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <h4>Memberships/Affiliations</h4>
                             <ul>
                                 <li> - IEIE (The Institute of Electronics and Information Engineers) Computer Society / President</li>
-                                <li> -  KICS (Korea Information and Communications Society) / Membership Committee</li>
-                                <li> -  IWIT (Institute of Webcasting and Internet Television) / Vice President</li>
+                                <li> - KICS (Korea Information and Communications Society) / Membership Committee</li>
+                                <li> - IWIT (Institute of Webcasting and Internet Television) / Vice President</li>
                                 <li> - KMS (Korea Multimedia Society) / Senior Member</li>
                                 <li> - KST (Korea Society of Transportation) / Senior Member</li>
                                 <li> - IEEE / Member, ACM / Member, IEICE / Member</li>
+                                <li> - ICGHIT / General Chair</li>
                             </ul>
                             <h4>Research Fields</h4>
                             <ul>
                                 <li> - Ad-hoc Networks, Sensor Networks, Home Networks</li>
                                 <li> - QoS Routing & Multicast, Network Coding</li>
                                 <li> - Cognitive Radio Networks</li>
-                                <li> - Cooperative Communications, Cross-Layer technology</li>
+                                <li> - Cooperative Communications, Cross-Layer Technology</li>
+                                <li> - Mobile Clouding, IoT</li>
+                                <li> - VLC (Visible Light Communication)</li>
+                                <li> - Physical Layer Security</li>
                                 <li> - Mobility Management, Location-Based Technology</li>
                                 <li> - Mobile IP & TCP/IP Protocols </li>
                                 <li> - Healthcare & Telemedicine</li>
                                 <li> - Bio Information Communications</li>
-                                <li> - Cognitive Radio Networks</li>
-                                <li> - Mobile Clouding</li>
-                                <li> - VLC (Visible Light Communication)</li>
                                 <li> - Content Centric Networks</li>
                             </ul>
                         </div>

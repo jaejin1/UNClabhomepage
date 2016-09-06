@@ -106,7 +106,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <img src="images/team/thnu.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Tri-Nhu Do</h3>
-                            <p class="team_designation">3 Semester</p>
+                            <p class="team_designation">4 Semester</p>
                             <p class="team_text"> - Cognitive Radio Ad-hoc Networks
                             <br>- Wireless energy harvesting
                             <br>- physical layer security
@@ -136,7 +136,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <img src="images/team/simbr.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Kyu Seong Shim </h3>
-                            <p class="team_designation">3 Semester</p>
+                            <p class="team_designation">4 Semester</p>
                             <p class="team_text">- Wireless Networks<br>
                                 - physical layer security<br>
                                 - Routing Protocols</p>
@@ -151,7 +151,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <img src="images/team/simyo.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Kyu Hyeon Shim </h3>
-                            <p class="team_designation">3 Semester</p>
+                            <p class="team_designation">4 Semester</p>
                             <p class="team_text">- Wireless energy harvesting<br>
                                 - Electronic Circuits</p>
                             <p>
@@ -165,7 +165,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <img src="images/team/Quang.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Nhat-Quang Le </h3>
-                            <p class="team_designation">1 Semester</p>
+                            <p class="team_designation">2 Semester</p>
                             <p class="team_text">- Wireless energy harvesting
                                 <br>- physical layer security</p>
                             <p>

@@ -77,7 +77,7 @@ Header Section Start
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>Professor</h2>
+                    <h2>Projects</h2>
                     <ol class="breadcrumb">
                         <li>
                             <a href="index.php">

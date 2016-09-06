@@ -147,7 +147,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                     </div>
                                 </div>
                                 <div>
-                                    <h4 class="media-heading">Moblie Communications & Network</h4>
+                                    <h4 class="media-heading">Mobile Communications & Network</h4>
                                     <ul class="lsp">
                                       <li><p>- Ad-hoc Networks & Sensor Networks</p></li>
                                       <li><p>- Ubiquitous Networks</p></li>
@@ -238,7 +238,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                   </div>
                               </div>
                               <div>
-                                  <h4 class="media-heading">Cognitive Raido Networks</h4>
+                                  <h4 class="media-heading">Cognitive Radio Networks</h4>
                                   <ul class="lsp">
                                     <li><p>- Spectrum Sensing</p></li>
                                     <li><p>- Route & Network Stabillity in Cognitive Radio Ad-Hoc Networks(CRAHNs)</p></li>

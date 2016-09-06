@@ -129,10 +129,10 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
             ==================================================
             Resarch Section Start
             ================================================== -->
-            <section id="resarch">
+            <section id="research">
                 <div class="container">
                     <div class="section-heading">
-                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">Resarch</h1>
+                        <h1 class="title wow fadeInDown" data-wow-delay=".3s">Research</h1>
                         <!-- <p class="wow fadeInDown" data-wow-delay=".5s">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed,<br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
                         </p> -->

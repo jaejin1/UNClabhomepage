@@ -27,6 +27,7 @@ class Header{
                 </div>
                 <!-- /logo -->
             </div>
+            
             <!-- main menu -->
             <nav class="collapse navbar-collapse navbar-right" role="navigation">
                 <div class="main-menu">
@@ -54,6 +55,7 @@ class Header{
                                     <li><a href="DomesticeJ.php">Domestic Jouranl</a></li>
                                     <li><a href="internationalC.php">International Conference</a></li>
                                     <li><a href="DomesticeC.php">Domestic Conference</a></li>
+                                    <li><a href="Dpatent.php">patent</a></li>
                                 </ul>
                             </div>
                         </li>

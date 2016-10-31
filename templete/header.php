@@ -54,6 +54,7 @@ class Header{
                                     <li><a href="DomesticeJ.php">Domestic Jouranl</a></li>
                                     <li><a href="internationalC.php">International Conference</a></li>
                                     <li><a href="DomesticeC.php">Domestic Conference</a></li>
+                                    <li><a href="patent.php">patent</a></li>
                                 </ul>
                             </div>
                         </li>

@@ -103,6 +103,7 @@ Header Section Start
                 <div class="block" style="text-align:justify">
                     <h3 class="count">Patent :  </h3>
                     <ul>
+                        <li>- An Analysis Modeling Architecture for Supporting Physical Layer Security of Wireless Networks Under Hardware Impairments, SERSC, Accpted to be Published, May 2016</li>
 
                     </ul>
                 </div>

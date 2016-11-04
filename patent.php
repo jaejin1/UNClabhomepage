@@ -101,9 +101,8 @@ Header Section Start
         <div class="row">
             <div class="col-md-12">
                 <div class="block" style="text-align:justify">
-                    <h3 class="count">patent :  </h3>
+                    <h3 class="count">Patent :  </h3>
                     <ul>
-                        <li>- test</li>
 
                     </ul>
                 </div>

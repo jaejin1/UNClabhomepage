@@ -109,9 +109,8 @@ Header Section Start
 >>>>>>> 5541f03e3fd77f0932269ec1a5ae94348fae0c8e
             <div class="col-md-12">
                 <div class="block" style="text-align:justify">
-                    <h3 class="count">patent :  </h3>
+                    <h3 class="count">Patent :  </h3>
                     <ul>
-                        <li>- test</li>
 
                     </ul>
                 </div>

@@ -77,7 +77,7 @@ Header Section Start
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>patent</h2>
+                    <h2>Patent</h2>
                     <ol class="breadcrumb">
                         <li>
                             <a href="index.php">
@@ -99,20 +99,18 @@ Header Section Start
 <section class="blankpage">
     <div class="container">
         <div class="row">
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
 
->>>>>>> 5216295c609b84140564720dcd136b16122cb70e
-=======
->>>>>>> 5541f03e3fd77f0932269ec1a5ae94348fae0c8e
+
+
+
+
+
+
             <div class="col-md-12">
                 <div class="block" style="text-align:justify">
                     <h3 class="count">Patent :  </h3>
                     <ul>
-                        <li>- An Analysis Modeling Architecture for Supporting Physical Layer Security of Wireless Networks Under Hardware Impairments, SERSC, Accpted to be Published, May 2016</li>
-
                     </ul>
                 </div>
             </div>
@@ -121,10 +119,13 @@ Header Section Start
     </div>
 </section>
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 5216295c609b84140564720dcd136b16122cb70e
+
+
+
+
+
+
 <!--
 ==================================================
 Footer Section Start

@@ -77,7 +77,7 @@ Header Section Start
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>patent</h2>
+                    <h2>Patent</h2>
                     <ol class="breadcrumb">
                         <li>
                             <a href="index.php">
@@ -103,8 +103,6 @@ Header Section Start
                 <div class="block" style="text-align:justify">
                     <h3 class="count">Patent :  </h3>
                     <ul>
-                        <li>- An Analysis Modeling Architecture for Supporting Physical Layer Security of Wireless Networks Under Hardware Impairments, SERSC, Accpted to be Published, May 2016</li>
-
                     </ul>
                 </div>
             </div>
@@ -112,7 +110,6 @@ Header Section Start
         </div>
     </div>
 </section>
-
 <!--
 ==================================================
 Footer Section Start

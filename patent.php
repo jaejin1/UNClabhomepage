@@ -99,6 +99,11 @@ Header Section Start
 <section class="blankpage">
     <div class="container">
         <div class="row">
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 5216295c609b84140564720dcd136b16122cb70e
             <div class="col-md-12">
                 <div class="block" style="text-align:justify">
                     <h3 class="count">patent :  </h3>
@@ -112,7 +117,10 @@ Header Section Start
     </div>
 </section>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5216295c609b84140564720dcd136b16122cb70e
 <!--
 ==================================================
 Footer Section Start

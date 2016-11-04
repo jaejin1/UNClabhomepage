@@ -6,7 +6,6 @@
  */
 class Header{
 	public static function render(){
-
 		echo '<header id="top-bar" class="navbar-fixed-top animated-header">
         <div class="container">
             <div class="navbar-header">
@@ -18,7 +17,6 @@ class Header{
                 <span class="icon-bar"></span>
                 </button>
                 <!-- /responsive nav button -->
-
                 <!-- logo -->
                 <div class="navbar-brand">
                     <a href="index.php" >
@@ -55,7 +53,7 @@ class Header{
                                     <li><a href="DomesticeJ.php">Domestic Jouranl</a></li>
                                     <li><a href="internationalC.php">International Conference</a></li>
                                     <li><a href="DomesticeC.php">Domestic Conference</a></li>
-                                    <li><a href="Dpatent.php">patent</a></li>
+                                    <li><a href="patent.php">patent</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -68,6 +66,5 @@ class Header{
             <!-- /main nav -->
         </div>
     </header>';
-
 	}
 }

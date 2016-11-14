@@ -115,6 +115,7 @@ Header Section Start
                         <li>- LED를 이용한 가시광 양방향 통신 방법(Visible Light Bi-Direction Communication Method using LED)(Korea Patent Application Number: 10-2015-0144515, Date: 10-16-2015)</li>
                     </ul>
                     <div>
+                        <br><br><br><br>
                     </div>
                     <h3 class="count">Program :  </h3>
                     <ul>

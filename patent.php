@@ -117,11 +117,6 @@ Header Section Start
                 </div>
             </div>
 
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="row">
             <div class="col-md-12">
                 <div class="block" style="text-align:justify">
                     <h3 class="count">Program :  </h3>

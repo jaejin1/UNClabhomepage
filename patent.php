@@ -114,11 +114,6 @@ Header Section Start
                         <li>- 멀티 홉 언더레이 인지 라디오 네트워크를 위한 물리계층 보안 평가 시스템(An Evaluation System of Physical Layer Security for Multi-hop Underlay Cognitive Radio Networks)(Korea Patent Application Number: 10-2015-0182105, Date: 12-18-2015)</li>
                         <li>- LED를 이용한 가시광 양방향 통신 방법(Visible Light Bi-Direction Communication Method using LED)(Korea Patent Application Number: 10-2015-0144515, Date: 10-16-2015)</li>
                     </ul>
-                </div>
-            </div>
-
-            <div class="col-md-12">
-                <div class="block" style="text-align:justify">
                     <h3 class="count">Program :  </h3>
                     <ul>
                         <li>- 모바일 애드혹 무선 센서네트워크에서 에어지 하베스팅인지 엔트로피기반 방향성 안내 라우팅 (프로그램등록번호: 제 C-2016-019275호, Date: 08-12-2016)</li>
@@ -127,6 +122,8 @@ Header Section Start
                     </ul>
                 </div>
             </div>
+
+
         </div>
     </div>
 

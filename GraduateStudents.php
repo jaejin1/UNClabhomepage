@@ -130,7 +130,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
             <div class="container">
                 <div class="row">
                     <h2 class="subtitle text-center">M.S Students</h2>
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <div class="team-member   "  >
                             <div class="team-img">
                                 <img src="images/team/simbr.jpg" class="team-pic" alt="">
@@ -145,6 +145,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             </p>
                         </div>
                     </div>
+                    <!--
                     <div class="col-md-4">
                         <div class="team-member   "   >
                             <div class="team-img">
@@ -159,7 +160,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             </p>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    -->
+                    <div class="col-md-6">
                         <div class="team-member   "   >
                             <div class="team-img">
                                 <img src="images/team/Quang.jpg" class="team-pic" alt="">

@@ -143,7 +143,7 @@ Header Section Start
             </div>
         </div>
         <div class="row">-->
-            <div class="col-md-3">
+            <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
                         <img src="images/team/mrkim.jpg" class="team-pic" alt="">
@@ -156,8 +156,8 @@ Header Section Start
                     </p>
                 </div>
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
                         <img src="images/team/soobin.jpg" class="team-pic" alt="">
@@ -170,8 +170,8 @@ Header Section Start
                     </p>
                 </div>
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
                         <img src="images/team/jaejin.jpg" class="team-pic" alt="">
@@ -186,8 +186,8 @@ Header Section Start
             </div>
 
             <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-3">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-3">
                     <div class="team-member   "  >
                         <div class="team-img">
                             <img src="" class="team-pic" alt="">
@@ -200,8 +200,8 @@ Header Section Start
                         </p>
                     </div>
                 </div>
-                <div class="col-md-2"></div>
-                <div class="col-md-3">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-3">
                     <div class="team-member   "  >
                         <div class="team-img">
                             <img src="" class="team-pic" alt="">
@@ -214,7 +214,7 @@ Header Section Start
                         </p>
                     </div>
                 </div>
-                <div class="col-md-2"></div>
+                <div class="col-sm-2"></div>
             </div>
         </div>
     </div>

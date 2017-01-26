@@ -99,8 +99,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
             <div class="container">
                 <div class="row">
                     <h2 class="subtitle text-center">Ph.D Students</h2>
-                    <div class="col-xs-4"></div>
-                    <div class="col-xs-4">
+                    <div class="col-sm-4"></div>
+                    <div class="col-sm-4">
                         <div class="team-member   "  >
                             <div class="team-img">
                                 <img src="images/team/thnu.jpg" class="team-pic" alt="">
@@ -117,7 +117,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
 
                         </div>
                     </div>
-                    <div class="col-xs-4"></div>
+                    <div class="col-sm-4"></div>
                 </div>
             </div>
         </section>
@@ -134,7 +134,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     <div class="col-md-1">
                     </div>
                     -->
-                    <div class="col-xs-4">
+                    <div class="col-sm-4">
                         <div class="team-member   "  >
                             <div class="team-img">
                                 <img src="images/team/simbr.jpg" class="team-pic" alt="">
@@ -152,7 +152,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     <!--<div class="col-md-2">
                     </div>-->
 
-                    <div class="col-xs-4">
+                    <div class="col-sm-4">
                         <div class="team-member   "   >
                             <div class="team-img">
                                 <img src="images/team/simyo.jpg" class="team-pic" alt="">
@@ -167,7 +167,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                         </div>
                     </div>
 
-                    <div class="col-xs-4">
+                    <div class="col-sm-4">
                         <div class="team-member   "   >
                             <div class="team-img">
                                 <img src="images/team/Quang.jpg" class="team-pic" alt="">

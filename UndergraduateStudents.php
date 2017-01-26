@@ -184,38 +184,37 @@ Header Section Start
                     </p>
                 </div>
             </div>
-
-            <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-sm-3">
-                    <div class="team-member   "  >
-                        <div class="team-img">
-                            <img src="" class="team-pic" alt="">
-                        </div>
-                        <h3 class="team_name">Hansol Jo</h3>
-                        <p class="team_designation">Sophomore</p>
-                        <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
-                        <p>
-                            <i class="ion-android-mail"></i>
-                        </p>
+        </div>
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-3">
+                <div class="team-member   "  >
+                    <div class="team-img">
+                        <img src="" class="team-pic" alt="">
                     </div>
+                    <h3 class="team_name">Hansol Jo</h3>
+                    <p class="team_designation">Sophomore</p>
+                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
+                    <p>
+                        <i class="ion-android-mail"></i>
+                    </p>
                 </div>
-                <div class="col-sm-2"></div>
-                <div class="col-sm-3">
-                    <div class="team-member   "  >
-                        <div class="team-img">
-                            <img src="" class="team-pic" alt="">
-                        </div>
-                        <h3 class="team_name">Irwon Choe</h3>
-                        <p class="team_designation">Sophomore</p>
-                        <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
-                        <p>
-                            <i class="ion-android-mail"></i>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-2"></div>
             </div>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-3">
+                <div class="team-member   "  >
+                    <div class="team-img">
+                        <img src="" class="team-pic" alt="">
+                    </div>
+                    <h3 class="team_name">Irwon Choe</h3>
+                    <p class="team_designation">Sophomore</p>
+                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
+                    <p>
+                        <i class="ion-android-mail"></i>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-2"></div>
         </div>
     </div>
 </section>

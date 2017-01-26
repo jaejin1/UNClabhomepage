@@ -190,13 +190,13 @@ Header Section Start
                 <div class="col-md-3">
                     <div class="team-member   "  >
                         <div class="team-img">
-                            <img src="images/team/mrkim.jpg" class="team-pic" alt="">
+                            <img src="" class="team-pic" alt="">
                         </div>
                         <h3 class="team_name">Hansol Jo</h3>
                         <p class="team_designation">Sophomore</p>
                         <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
                         <p>
-                            <i class="ion-android-mail"></i>  kkh5394@naver.com
+                            <i class="ion-android-mail"></i>
                         </p>
                     </div>
                 </div>
@@ -204,13 +204,13 @@ Header Section Start
                 <div class="col-md-3">
                     <div class="team-member   "  >
                         <div class="team-img">
-                            <img src="images/team/mrkim.jpg" class="team-pic" alt="">
+                            <img src="" class="team-pic" alt="">
                         </div>
                         <h3 class="team_name">Irwon Choe</h3>
                         <p class="team_designation">Sophomore</p>
                         <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
                         <p>
-                            <i class="ion-android-mail"></i>  kkh5394@naver.com
+                            <i class="ion-android-mail"></i>
                         </p>
                     </div>
                 </div>

@@ -192,7 +192,7 @@ Header Section Start
                     <div class="team-img">
                         <img src="" class="team-pic" alt="">
                     </div>
-                    <h3 class="team_name">Hansol Jo</h3>
+                    <h3 class="team_name">Hansol Cho</h3>
                     <p class="team_designation">Sophomore</p>
                     <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
                     <p>
@@ -206,7 +206,7 @@ Header Section Start
                     <div class="team-img">
                         <img src="" class="team-pic" alt="">
                     </div>
-                    <h3 class="team_name">Irwon Choe</h3>
+                    <h3 class="team_name">Ilwon Choi</h3>
                     <p class="team_designation">Sophomore</p>
                     <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
                     <p>

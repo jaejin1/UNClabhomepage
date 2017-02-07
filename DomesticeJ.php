@@ -103,6 +103,8 @@ Header Section Start
                 <div class="block" style="text-align:justify">
                     <h3 class="count">Domestic Journals :  </h3>
                     <ul>
+                        <li>- 모바일 애드혹 무선 센서 네트워크에서 동적 전송범위를 사용한 에너지 엔트로피 기반 다중경로 라우팅 프로토콜, 전자공학회논문지, Accepted to be published, 2017년.</li>
+                        <li>- 스마트폰을 이용한 가시광통신 기반 실내 IoT 모니터링 시스템, 전자공학회논문지, Accepted to be published, 2017년.</li>
                         <li>- 하드웨어왜곡과 불완전한 채널상태정보가 물리계층보안에 미치는 영향, 전자공학회논문지, 제53권, 4호, 2016년 4월.</li>
                         <li>- 모바일 애드혹 무선 센서 네트워크에서 RF 에너지 하베스팅 기반 라우팅 프로토콜, 전자공학회논문지, 제53권, 4호, 2016년 4월.</li>
                         <li>- 안드로이드 기반 스마트 LED 푸시 알람 시스템, 한국인터넷방송통신학회논문지, 제 16권, 1호, pp.97-102, 2016년 2월.</li>

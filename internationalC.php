@@ -105,6 +105,13 @@ Header Section Start
                 <div class="block" style="text-align:justify">
                     <h3 class="count">International Conferences :  </h3>
                     <ul>
+                        <li>- Outage analysis of Distributed Switch and Stay Selection Relaying Half Duplex Network with imperfect CSI, Proc. of ICGHIT 2017, February 2017.</li>
+                        <li>- MILD based Transmission Range Routing Protocol in Mobile Ad-hoc Wireless Sensor Networks, Proc. of ICGHIT 2017, February 2017.</li>
+                        <li>- A Source Relay Selection Scheme for Physical Layer Security in Multi-User Multi-Relay Amplify-and-Forward Cooperative Networks, Proc. of ICGHIT 2017, February 2017.</li>
+                        <li>- Virtually Extended 2D Color Map Utilizing Color Quantization, Proc. of ICGHIT 2017, February 2017.</li>
+                        <li>- Optimal Joint Source and Relay Selection Scheme for Physical Layer Security in Multi-User and Multi-Relay Networks, Proc. of ICONI 2016, December 2016.</li>
+                        <li>- How Does beamforming Influence the Connectivity of Cognitive Radio Ad-hoc Networks ?, Proc. of IS3C2016, July 2016.</li>
+                        <li>- Demonstration of Low-Complexity LED-to-LED Two-way Visible Light Communication System, Proc. of IS3C2016, July 2016.</li>
                         <li>- An Energy Harvesting Aware Routing Protocol in Mobile Ad-hoc Wireless Sensor Network, Proc. of ICGHIT2016, February 2016.</li>
                         <li>- Physical Layer Security of Wireless Networks under Hardware Impairments, Proc. of ICGHIT2016, February 2016.</li>
                         <li>- Cooperative Spectrum Sensing Based Routing Protocol in Mobile Cognitive Radio Ad-hoc Networks, Proc. of ICGHIT2016, February 2016.</li>

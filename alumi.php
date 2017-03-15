@@ -98,21 +98,57 @@ Header Section Start
 <section id="team">
     <div class="container">
         <div class="row">
+
             <div class="col-md-3">
                 <div class="team-member  " >
-                    <h3 class="team_name">Le The Dung</h3>
-                    <p class="team_designation">Ph.D</p>
-                    <p class="team_text">Postdoctoral Research Fellow,<br>Chungbuk National University</p>
+                    <h3 class="team_name">오훈</h3>
+                    <p class="team_designation">BS</p>
+                    <p class="team_text">BISTel</p>
                     <p>
-                        <i class="ion-android-mail"></i>  thedung_hcmut@yahoo.com
+                        <i class="ion-android-mail">stockhoon5@gmail.com</i>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="team-member  "  >
+                    <h3 class="team_name">조승완</h3>
+                    <p class="team_designation">BS</p>
+                    <p class="team_text">NHN Entertainment</p>
+                    <p>
+                        <i class="ion-android-mail">wh7923@gmail.com</i>
                     </p>
                 </div>
             </div>
             <div class="col-md-3">
-                <div class="team-member  " >
-                    <h3 class="team_name">류준혁</h3>
+                <div class="team-member  "  >
+                    <div class="team-member  " >
+                        <h3 class="team_name">Le The Dung</h3>
+                        <p class="team_designation">Ph.D</p>
+                        <p class="team_text">Postdoctoral Research Fellow,<br>Chungbuk National University</p>
+                        <p>
+                            <i class="ion-android-mail"></i>  thedung_hcmut@yahoo.com
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="team-member  "  >
+                    <h3 class="team_name">박인철</h3>
                     <p class="team_designation">BS</p>
-                    <p class="team_text">삼성전자</p>
+                    <p class="team_text">SK</p>
+                    <p>
+                        <i class="ion-android-mail"></i>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="team-member  "  >
+                    <h3 class="team_name">하수형</h3>
+                    <p class="team_designation">M.S</p>
+                    <p class="team_text">국방과학연구소(ADD)</p>
                     <p>
                         <i class="ion-android-mail"></i>
                     </p>
@@ -130,14 +166,25 @@ Header Section Start
             </div>
             <div class="col-md-3">
                 <div class="team-member  "  >
-                    <h3 class="team_name">하수영</h3>
-                    <p class="team_designation">M.S</p>
-                    <p class="team_text">국방과학연구소(ADD)</p>
+                    <h3 class="team_name">오춘림</h3>
+                    <p class="team_designation">BS</p>
+                    <p class="team_text">LG</p>
                     <p>
                         <i class="ion-android-mail"></i>
                     </p>
                 </div>
             </div>
+            <div class="col-md-3">
+                <div class="team-member  " >
+                    <h3 class="team_name">류준혁</h3>
+                    <p class="team_designation">BS</p>
+                    <p class="team_text">삼성전자</p>
+                    <p>
+                        <i class="ion-android-mail"></i>
+                    </p>
+                </div>
+            </div>
+
         </div>
         <div class="row">
             <div class="col-md-3">
@@ -151,16 +198,7 @@ Header Section Start
                 </div>
             </div>
 
-            <div class="col-md-3">
-                <div class="team-member  "  >
-                    <h3 class="team_name">오춘림</h3>
-                    <p class="team_designation">BS</p>
-                    <p class="team_text">LG</p>
-                    <p>
-                        <i class="ion-android-mail"></i>
-                    </p>
-                </div>
-            </div>
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">백경욱</h3>
@@ -182,7 +220,7 @@ Header Section Start
                 </div>
             </div>
         </div>
-        <div class="row">
+
 
             <div class="col-md-3">
                 <div class="team-member  "  >
@@ -194,6 +232,8 @@ Header Section Start
                     </p>
                 </div>
             </div>
+        <div class="row">
+        </div>
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">오영빈</h3>
@@ -224,8 +264,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
-        </div>
-        <div class="row">
+
 
             <div class="col-md-3">
                 <div class="team-member  "  >
@@ -237,31 +276,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="team-member  "  >
-                    <h3 class="team_name">박인철</h3>
-                    <p class="team_designation">BS</p>
-                    <p class="team_text">SK</p>
-                    <p>
-                        <i class="ion-android-mail"></i>
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="team-member  "  >
-                    <h3 class="team_name">조승완</h3>
-                    <p class="team_designation">BS</p>
-                    <p class="team_text">NHN Entertainment</p>
-                    <p>
-                        <i class="ion-android-mail">wh7923@gmail.com</i>
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="team-member  "  >
-                    
-                </div>
-            </div>
+
         </div>
     </div>
 </section>

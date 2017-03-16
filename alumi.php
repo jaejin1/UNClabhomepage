@@ -200,7 +200,7 @@ Header Section Start
 
 
             <div class="col-md-3">
-                <div class="team-member  "  > 
+                <div class="team-member  "  >
                     <h3 class="team_name">백경욱</h3>
                     <p class="team_designation">BS</p>
                     <p class="team_text">KT</p>

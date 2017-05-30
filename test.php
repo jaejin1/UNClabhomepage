@@ -10,7 +10,7 @@
 
 $filename = "test.txt";
 $reail_filename = urldecode("test.txt");
-$file_dir = "./".test.txt;
+$file_dir = "./".test;
 
 header('Content-Type: application/x-octetstream');
 header('Content-Length: '.filesize($file_dir));

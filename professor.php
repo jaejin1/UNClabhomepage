@@ -144,6 +144,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <li> - IEEE / Member, ACM / Member, IEICE / Member</li>
                                 <li> - ICGHIT / General Chair</li>
                             </ul>
+                            <a href="test.php"><h3>Research Fields</h3></a>
                             <h4>Research Fields</h4>
                             <ul>
                                 <li> - Ad-hoc Networks, Sensor Networks, Home Networks</li>

@@ -8,7 +8,7 @@
 
 
 
-$filename = "테스트입니다 ";
+$filename = "text.txt";
 $reail_filename = urldecode("text.txt");
 $file_dir = "./".text.txt;
 

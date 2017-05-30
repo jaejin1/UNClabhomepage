@@ -8,9 +8,9 @@
 
 
 
-$filename = "text.txt";
-$reail_filename = urldecode("text.txt");
-$file_dir = "./".text.txt;
+$filename = "test.txt";
+$reail_filename = urldecode("test.txt");
+$file_dir = "./".test.txt;
 
 header('Content-Type: application/x-octetstream');
 header('Content-Length: '.filesize($file_dir));

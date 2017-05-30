@@ -8,9 +8,9 @@
 
 
 
-$filename = "test.txt";
-$reail_filename = urldecode("test.txt");
-$file_dir = './test.txt';
+$filename = "Publication & Project List(안병구)-2017.05.29.hwp";
+$reail_filename = urldecode("Publication & Project List(안병구)-2017.05.29.hwp");
+$file_dir = './Publication & Project List(안병구)-2017.05.29.hwp';
 
 header('Content-Type: application/x-octetstream');
 header('Content-Length: '.filesize($file_dir));

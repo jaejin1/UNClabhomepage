@@ -8,9 +8,9 @@
 
 
 
-$filename = "Publication & Project List(안병구)-2017.05.29.pdf";
-$reail_filename = urldecode("Publication & Project List(안병구)-2017.05.29.pdf");
-$file_dir = './Publication & Project List(안병구)-2017.05.29.pdf';
+$filename = "Publications & Projects.pdf";
+$reail_filename = urldecode("Publications & Projects.pdf");
+$file_dir = './Publications & Projects.pdf';
 
 header('Content-Type: application/x-octetstream');
 header('Content-Length: '.filesize($file_dir));

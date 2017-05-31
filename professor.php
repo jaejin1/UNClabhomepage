@@ -145,6 +145,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <li> - ICGHIT / General Chair</li>
                             </ul>
                             <a href="Filepush.php"><h4>Publications and Projects</h4></a>
+                            <a href="http://unclab.hongik.ac.kr/Publications & Projects.pdf#page=28"><h4>test </h4></a>
                             <h4>Research Fields</h4>
                             <ul>
                                 <li> - Ad-hoc Networks, Sensor Networks, Home Networks</li>

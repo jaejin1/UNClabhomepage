@@ -21,6 +21,9 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:title" content="UNC Lab">
+        <meta property="og:description" content="Our Ubiquitous networks & Convergence laboratory (UNC Lab) is led by Professor Beongku An."
+        <meta property="og:image" content="https://github.com/jaejin1/UNClabhomepage/blob/master/images/about/labpicture.jpg"
 
         <!-- Template CSS Files
         ================================================== -->

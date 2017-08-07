@@ -24,6 +24,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         <meta property="og:title" content="UNC Lab">
         <meta property="og:description" content="Our Ubiquitous networks & Convergence laboratory (UNC Lab) is led by Professor Beongku An.">
         <meta property="og:image" content="https://github.com/jaejin1/UNClabhomepage/blob/master/images/about/labpicture.jpg">
+        <meta property="og:image:width" content="800">
+        <meta property="og:image:height" content="400">
 
         <!-- Template CSS Files
         ================================================== -->

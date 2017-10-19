@@ -204,7 +204,7 @@ Header Section Start
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <img src="" class="team-pic" alt="">
+                        <!-- <img src="images/team/ilwon.jpg" class="team-pic" alt=""> -->
                     </div>
                     <h3 class="team_name">Ilwon Choi</h3>
                     <p class="team_designation">Sophomore</p>

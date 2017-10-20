@@ -123,7 +123,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="block">
-                                <img style="margin-top: 78px" src="images/about/labpicture.jpg" alt="">
+                                <img style="margin-top: 78px" src="images/about/labpicture2.jpg" alt="">
                             </div>
                         </div>
                     </div>

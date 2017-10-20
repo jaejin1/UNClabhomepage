@@ -99,6 +99,17 @@ Header Section Start
     <div class="container">
         <div class="row">
 
+            <!-- <div class="col-md-3">
+                <div class="team-member  " >
+                    <h3 class="team_name">이연재</h3>
+                    <p class="team_designation">BS</p>
+                    <p class="team_text">  </p>
+                    <p>
+                        <i class="ion-android-mail">  </i>
+                    </p>
+                </div>
+            </div> -->
+
             <div class="col-md-3">
                 <div class="team-member  " >
                     <h3 class="team_name">오훈</h3>

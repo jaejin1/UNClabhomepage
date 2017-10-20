@@ -103,7 +103,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     <div class="col-md-1">
                     </div>
                     -->
-                    <div class="col-sm-4"></div>
+                    <div class="col-sm-2"></div>
                     <div class="col-sm-4">
                         <div class="team-member   "  >
                             <div class="team-img">
@@ -140,25 +140,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     </div>
                     <div class="col-sm-4"></div>
                     <!--<div class="col-md-3">
-                    </div>-->
-                    <div class="col-sm-4">
-                        <div class="team-member   "  >
-                            <!-- <div class="team-img">
-                                <img src="images/team/simbr.jpg" class="team-pic" alt="">
-                            </div>
-                            <h3 class="team_name">Kyu Seong Shim </h3>
-                            <p class="team_designation">4 Semester</p>
-                            <p class="team_text">- Wireless Networks<br>
-                                - physical layer security<br>
-                                - Routing Protocols</p>
-                            <p>
-                                <i class="ion-android-mail"></i>  sks11521@gmail.com
-                            </p> -->
-                        </div>
-                    </div>
-                    <div class="col-sm-4"></div>
-                    <!--<div class="col-md-1">
-                    </div>-->
+                    
                 </div>
             </div>
         </section>
@@ -175,6 +157,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     <div class="col-md-1">
                     </div>
                     -->
+                    <div class="col-sm-4"></div>
                     <div class="col-sm-4">
                         <div class="team-member   "   >
                             <div class="team-img">

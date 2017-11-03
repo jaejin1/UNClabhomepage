@@ -20,7 +20,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <!-- Template CSS Files
         ================================================== -->
         <!-- Twitter Bootstrs CSS -->
@@ -39,7 +39,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-        
+
         <!-- Template Javascript Files
         ================================================== -->
         <!-- modernizr js -->
@@ -66,8 +66,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         ================================================== -->
         <? Header::render()?>
 
-        <!-- 
-        ================================================== 
+        <!--
+        ==================================================
             Global Page Section Start
         ================================================== -->
         <section class="global-page-header">
@@ -91,8 +91,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         </section>
 
 
-        <!-- 
-        ================================================== 
+        <!--
+        ==================================================
             Ph.D Team Section Start
         ================================================== -->
         <section id="team">
@@ -103,8 +103,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     <div class="col-md-1">
                     </div>
                     -->
-                    <div class="col-sm-2"></div>
-                    <div class="col-sm-4">
+
+                    <div class="col-sm-3">
                         <div class="team-member   "  >
                             <div class="team-img">
                                 <img src="images/team/thnu.jpg" class="team-pic" alt="">
@@ -121,15 +121,14 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
 
                         </div>
                     </div>
-                    <!--<div class="col-md-2">
-                    </div>-->
-                    <div class="col-sm-4">
+                    <div class="col-md-1"></div>
+                    <div class="col-sm-3">
                         <div class="team-member   "  >
                             <div class="team-img">
                                 <img src="images/team/simbr.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Kyu Seong Shim </h3>
-                            <p class="team_designation">4 Semester</p>
+                            <p class="team_designation">2 Semester</p>
                             <p class="team_text">- Wireless Networks<br>
                                 - physical layer security<br>
                                 - Routing Protocols</p>
@@ -138,9 +137,23 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             </p>
                         </div>
                     </div>
-                    <div class="col-sm-4"></div>
-                    <!--<div class="col-md-3">
-                    
+                    <div class="col-md-1"></div>
+                    <div class="col-sm-3">
+                        <div class="team-member   "  >
+                            <div class="team-img">
+                                <img src="images/team/van.jpg" class="team-pic" alt="">
+                            </div>
+                            <h3 class="team_name">Nguyen Toan Van </h3>
+                            <p class="team_designation">1 Semester</p>
+                            <p class="team_text">- Routing Protocol<br>
+                                - Wireless Energy Harvesting<br>
+                                - Wireless Network</p>
+                            <p>
+                                <i class="ion-android-mail"></i>  vannguyentoan@gmail.com
+                            </p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </section>
@@ -164,7 +177,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <img src="images/team/Quang.jpg" class="team-pic" alt="">
                             </div>
                             <h3 class="team_name">Nhat-Quang Le </h3>
-                            <p class="team_designation">2 Semester</p>
+                            <p class="team_designation">4 Semester</p>
                             <p class="team_text">- Wireless energy harvesting
                                 <br>- physical layer security</p>
                             <p>
@@ -184,6 +197,6 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         ================================================== -->
         <? Footer::render(); ?>
          <!-- /#footer -->
-        
+
     </body>
 </html>

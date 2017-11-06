@@ -99,122 +99,110 @@ Header Section Start
     <div class="container">
         <div class="row">
             <h2 class="subtitle text-center">U.R Students</h2>
-            <!--
-            <div class="col-md-3">
+
+            <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <img src="images/team/joseungwan.jpg" class="team-pic" alt="">
+                        <img src="images/team/thnu.jpg" class="team-pic" alt="">
                     </div>
-                    <h3 class="team_name">Seungwan Jo</h3>
-                    <p class="team_designation">Senior</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Indoor location<br> - Wireless Network</p>
+                    <h3 class="team_name">Hyukchun Oh</h3>
+                    <p class="team_designation">4th year</p>
+                    <p class="team_text"> - Visible Light Communication
+                    <br>- Internet of Things
+                    <br>- Mobile Cloud
+                    </p>
                     <p>
-                        <i class="ion-android-mail"></i>  wh7923@gmail.com
+                        <i class="ion-android-mail"></i>  gurcjs2005@gmail.com
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-sm-3">
+                <div class="team-member   "  >
+                    <div class="team-img">
+                        <img src="images/team/simbr.jpg" class="team-pic" alt="">
+                    </div>
+                    <h3 class="team_name">Ilwon Choi </h3>
+                    <p class="team_designation">3rd year</p>
+                    <p class="team_text">- Visible Light Communication<br>
+                        - Internet of Things<br>
+                        - Mobile Cloud</p>
+                    <p>
+                        <i class="ion-android-mail"></i>  dlfdnjs30@gmail.com
                     </p>
                 </div>
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <div class="team-member   "  >
-                    <div class="team-img">
-                        <img src="images/team/honoh.jpg" class="team-pic" alt="">
-                    </div>
-                    <h3 class="team_name">Hoon Oh</h3>
-                    <p class="team_designation">Senior</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
-                    <p>
-                        <i class="ion-android-mail"></i>  stockhoon5@gmail.com
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <div class="team-member   "  >
-                    <div class="team-img">
-                        <img src="images/team/yeonjae.jpg" class="team-pic" alt="">
-                    </div>
-                    <h3 class="team_name">Yeonjea Lee</h3>
-                    <p class="team_designation">Senior</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
-                    <p>
-                        <i class="ion-android-mail"></i>  yeonjea115@gmail.com
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="row">-->
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
                         <img src="images/team/mrkim.jpg" class="team-pic" alt="">
                     </div>
-                    <h3 class="team_name">Kihoon Kim</h3>
-                    <p class="team_designation">Sophomore</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
+                    <h3 class="team_name">Kihoon Kim </h3>
+                    <p class="team_designation">3rd year</p>
+                    <p class="team_text">- Visible light Communication<br>
+                        - Internet of Things<br>
+                        - mobile Cloud</p>
                     <p>
                         <i class="ion-android-mail"></i>  kkh5394@naver.com
                     </p>
                 </div>
             </div>
-            <div class="col-sm-1"></div>
-            <div class="col-sm-3">
-                <div class="team-member   "  >
-                    <div class="team-img">
-                        <img src="images/team/soobin.jpg" class="team-pic" alt="">
-                    </div>
-                    <h3 class="team_name">Soobin Park</h3>
-                    <p class="team_designation">Sophomore</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
-                    <p>
-                        <i class="ion-android-mail"></i>  soobin950@gmail.com
-                    </p>
-                </div>
-            </div>
-            <div class="col-sm-1"></div>
+        </div>
+
+
+
+        <div class="row">
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
                         <img src="images/team/jaejin.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Jaejin Lee</h3>
-                    <p class="team_designation">Sophomore</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
+                    <p class="team_designation">3rd year</p>
+                    <p class="team_text"> - Visible Light Communication
+                    <br>- Internet of Things
+                    <br>- Big data
+                    </p>
                     <p>
                         <i class="ion-android-mail"></i>  opiximeo@gmail.com
                     </p>
+
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-2"></div>
+            <div class="col-md-1"></div>
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <img src="" class="team-pic" alt="">
+                        <img src="images/team/simbr.jpg" class="team-pic" alt="">
                     </div>
-                    <h3 class="team_name">Hansol Cho</h3>
-                    <p class="team_designation">Sophomore</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
+                    <h3 class="team_name">Hansol Cho </h3>
+                    <p class="team_designation">3rd year</p>
+                    <p class="team_text">- Visible Light Communication<br>
+                        - Internet of Things<br>
+                        - Mobile Cloud</p>
                     <p>
-                        <i class="ion-android-mail"></i>
+                        <i class="ion-android-mail"></i>  whgksthf702@naver.com
                     </p>
                 </div>
             </div>
-            <div class="col-sm-2"></div>
+            <div class="col-md-1"></div>
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <!-- <img src="images/team/ilwon.jpg" class="team-pic" alt=""> -->
+                        <img src="images/team/soobin.jpg" class="team-pic" alt="">
                     </div>
-                    <h3 class="team_name">Ilwon Choi</h3>
-                    <p class="team_designation">Sophomore</p>
-                    <p class="team_text"> - Visible Light Communication<br>- Electronic Circuits<br> - Mobile Cloud</p>
+                    <h3 class="team_name">Soobin Park </h3>
+                    <p class="team_designation">3rd year</p>
+                    <p class="team_text">- Visible light Communication<br>
+                        - Internet of Things<br>
+                        - mobile Cloud</p>
                     <p>
-                        <i class="ion-android-mail"></i>
+                        <i class="ion-android-mail"></i>  soobin950@gmail.com
                     </p>
                 </div>
             </div>
-            <div class="col-sm-2"></div>
         </div>
     </div>
 </section>

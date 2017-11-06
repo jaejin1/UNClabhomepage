@@ -171,7 +171,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     </div>
                     -->
                     <div class="col-sm-4"></div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="team-member   "   >
                             <div class="team-img">
                                 <img src="images/team/Quang.jpg" class="team-pic" alt="">

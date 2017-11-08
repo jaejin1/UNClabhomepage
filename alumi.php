@@ -97,18 +97,28 @@ Header Section Start
 ================================================== -->
 <section id="team">
     <div class="container">
-        <div class="row">
 
-            <!-- <div class="col-md-3">
+            <div class="col-md-3">
+                <div class="team-member  " >
+                    <h3 class="team_name">심규현</h3>
+                    <p class="team_designation">MS</p>
+                    <p class="team_text">(주)오로스 테크놀로지</p>
+                    <p>
+                        <i class="ion-android-mail">lread714@naver.com</i>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
                 <div class="team-member  " >
                     <h3 class="team_name">이연재</h3>
                     <p class="team_designation">BS</p>
-                    <p class="team_text">  </p>
+                    <p class="team_text">(주)다이아몬드게임즈</p>
                     <p>
-                        <i class="ion-android-mail">  </i>
+                        <i class="ion-android-mail"></i>
                     </p>
                 </div>
-            </div> -->
+            </div>
 
             <div class="col-md-3">
                 <div class="team-member  " >
@@ -153,8 +163,6 @@ Header Section Start
                     </p>
                 </div>
             </div>
-        </div>
-        <div class="row">
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">하수형</h3>
@@ -196,8 +204,6 @@ Header Section Start
                 </div>
             </div>
 
-        </div>
-        <div class="row">
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">유대현</h3>
@@ -243,8 +249,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
-        <div class="row">
-        </div>
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">오영빈</h3>
@@ -288,7 +293,6 @@ Header Section Start
                 </div>
             </div>
 
-        </div>
     </div>
 </section>
 

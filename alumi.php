@@ -97,7 +97,7 @@ Header Section Start
 ================================================== -->
 <section id="team">
     <div class="container">
-
+        <div class="row">
             <div class="col-md-3">
                 <div class="team-member  " >
                     <h3 class="team_name">심규현</h3>
@@ -141,6 +141,10 @@ Header Section Start
                     </p>
                 </div>
             </div>
+
+        </div>
+        <div class="row">
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <div class="team-member  " >
@@ -183,6 +187,10 @@ Header Section Start
                     </p>
                 </div>
             </div>
+
+        </div>
+        <div class="row">
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">오춘림</h3>
@@ -226,6 +234,10 @@ Header Section Start
                     </p>
                 </div>
             </div>
+
+        </div>
+        <div class="row">
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">류재국</h3>
@@ -270,6 +282,10 @@ Header Section Start
                     </p>
                 </div>
             </div>
+
+        </div>
+        <div class="row">
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">박태형</h3>
@@ -292,7 +308,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
-
+        </div>
     </div>
 </section>
 

@@ -103,7 +103,7 @@ Header Section Start
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <img src="images/team/blank_figure.jpg" class="team-pic" alt="">
+                        <img src="images/team/hyukchun.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Hyukchun Oh</h3>
                     <p class="team_designation">4th year</p>
@@ -121,7 +121,7 @@ Header Section Start
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <img src="images/team/blank_figure.jpg" class="team-pic" alt="">
+                        <img src="images/team/ilwon.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Ilwon Choi </h3>
                     <p class="team_designation">3rd year</p>
@@ -175,7 +175,7 @@ Header Section Start
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <img src="images/team/blank_figure.jpg" class="team-pic" alt="">
+                        <img src="images/team/hansol.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Hansol Cho </h3>
                     <p class="team_designation">3rd year</p>

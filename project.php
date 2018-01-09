@@ -106,6 +106,8 @@ Header Section Start
                     <h3>Current Research Projects</h3>
                     <h4 class="count">Number of Project :  </h4>
                     <ul>
+                        <li>- 2017.11.01 - 2018.11.30., 집단지성을 통한ISMP(Image Share Market Platform 이미지 공유 마켓 플랫폼) 플랫폼, 산학연협력기술개발사업,  중소기업청.</li>
+                        <li>- 2017.06.01 - 2017.11.30, Multi-to-One 가시광통신을 이용한 IoT시스템(IoT System using Multi-to-One Visible Light Communication), 학부생 연구프로그램(URP), 한국과학창의재단.</li>
                         <li>- 2016.06.01 - 2019.05.31, IoT 기반 모바일 스마트 태양광발전 관제시스템(IoT based Mobile Smart Solar Power Generation Management System), 지역신산업선도인력양성사업, 미래창조과학부/한국연구재단.</li>
                         <li>- 2016.11.01. - 2019.10.31, 미래 모바일 무선네트워크를 위한 에너지 효율과 로버스트 시큐리티 기반의 협력 릴레이 전송 및 라우팅 프로토콜 개발(Development of Energy Efficiency and Robust Security Based Cooperative Relay Transmissions  and Routing Protocols for Future Mobile Wireless Networks), 이공분야 기초연구사업(일반연구자-기본), 미래창조과학부/한국연구재단.</li>
                         <li>- 2016.06.01 - 2016.11.30, 가시광통신시스템을 이용한 실내 IoT 시스템(Indoor IoT System using Visible Light Communication), 학부생 연구프로그램(URP), 한국과학창의재단.</li>

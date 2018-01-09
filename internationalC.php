@@ -105,6 +105,9 @@ Header Section Start
                 <div class="block" style="text-align:justify">
                     <h3 class="count">International Conferences :  </h3>
                     <ul>
+                        <li>- Tri Nhu Do, Beongku An, "Finding Optimal Power Splitting Ratio for Cooperative SWIPT NOMA Systems," Proc. of ICONI 2017, December 2017.</li>
+                        <li>- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Beongku An, "A Full-Duplex Cooperative Scheme with Distributed Switch-and-Stay Combining for NOMA Networks," Proc. of IEEE Globecom 2017,  December 2017.</li>
+                        <li>- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Beongku An, "Opportunistic Scheduling for Fixed-gain Amplify-and-Forward-based Multiuser Multirelay SWIPT Cooperative Networks," Proc. of IEEE SigTelCom 2017, January 2017.</li>
                         <li>- Nhu Tri Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, “ Transmit Antenna Selection Schemes for MISO-NOMA Cooperative Downlink Transmissions with Hybrid SWIPT Protocol,” Proc. of IEEE ICC 2017, May 2017.</li>
                         <li>- Quang Nhat Le, Vo Nguyen Quoc Bao, Beongku An, "Outage analysis of Distributed Switch and Stay Selection Relaying Half Duplex Network with imperfect CSI," Proc. of ICGHIT 2017, February 2017.</li>
                         <li>- Kyuhyun Shim, Beongku An, "MILD based Transmission Range Routing Protocol in Mobile Ad-hoc Wireless Sensor Networks," Proc. of ICGHIT 2017, February 2017.</li>

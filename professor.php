@@ -22,7 +22,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         ================================================== -->
         <meta name="format-detection" content="telephone=no">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <!-- Template CSS Files
         ================================================== -->
         <!-- Twitter Bootstrs CSS -->
@@ -41,7 +41,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
-        
+
         <!-- Template Javascript Files
         ================================================== -->
         <!-- modernizr js -->
@@ -68,8 +68,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         ================================================== -->
         <? Header::render()?>
 
-        <!-- 
-        ================================================== 
+        <!--
+        ==================================================
             Global Page Section Start
         ================================================== -->
         <section class="global-page-header">
@@ -92,8 +92,8 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
             </div>
         </section>
 
-        <!-- 
-        ================================================== 
+        <!--
+        ==================================================
             Company Description Section Start
         ================================================== -->
         <section class="memberinfo">
@@ -128,8 +128,9 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             </ul>
                             <h4>Honours and/or Awards</h4>
                             <ul>
+                                <li> - 2017: Marquis Who's Who Lifetime Achievement (was listed)</li>
                                 <li> - 2005 - 2011: Marquis Who's  Who in Science and Engineering (was listed)</li>
-                                <li> - 2007 - 2015: Marquis Who's  Who in the World (was listed)</li>
+                                <li> - 2007 - 2017: Marquis Who's  Who in the World (was listed)</li>
                                 <li> - 2007, 2010: IBC (was listed)</li>
                                 <li> - 2007: Haedong Prize (IEEK), Korea </li>
                                 <li> - 2001: Best Award Paper, KSEA, USA</li>
@@ -144,12 +145,13 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <li> - IEEE / Member, ACM / Member, IEICE / Member</li>
                                 <li> - ICGHIT / General Chair</li>
                             </ul>
-                            <a target="_blank" href="http://unclab.hongik.ac.kr/Publications & Projects.pdf#page=1"><h4>Publications and Projects</h4></a>
+                            <a target="_blank" href="http://unclab.hongik.ac.kr/Publications&Projects.pdf#page=1"><h4>Publications and Projects</h4></a>
                             <h4>Research Fields</h4>
                             <ul>
                                 <li> - Ad-hoc Networks, Sensor Networks, Home Networks</li>
                                 <li> - QoS Routing & Multicast, Network Coding</li>
                                 <li> - Cognitive Radio Networks</li>
+                                <li> - NOMA, SWIPT, 5G</li>
                                 <li> - Cooperative Communications, Cross-Layer Technology</li>
                                 <li> - Mobile Clouding, IoT</li>
                                 <li> - VLC (Visible Light Communication)</li>
@@ -189,6 +191,6 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
         ================================================== -->
         <? Footer::render(); ?>
          <!-- /#footer -->
-        
+
     </body>
 </html>

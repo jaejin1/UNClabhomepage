@@ -105,14 +105,18 @@ Header Section Start
                 <div class="block" style="text-align:justify">
                     <h3 class="count">International Conferences :  </h3>
                     <ul>
-                        <li>- Tri Nhu Do, Beongku An, "Finding Optimal Power Splitting Ratio for Cooperative SWIPT NOMA Systems," Proc. of ICONI 2017, December 2017.</li>
-                        <li>- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Beongku An, "A Full-Duplex Cooperative Scheme with Distributed Switch-and-Stay Combining for NOMA Networks," Proc. of IEEE Globecom 2017,  December 2017.</li>
-                        <li>- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Beongku An, "Opportunistic Scheduling for Fixed-gain Amplify-and-Forward-based Multiuser Multirelay SWIPT Cooperative Networks," Proc. of IEEE SigTelCom 2017, January 2017.</li>
+                        <li>- Kyusung Shim, Tri Nhu Do, Beongku An, "A Physical Layer Security-based Routing Protocol in Mobile Ad-hoc Wireless Networks, Proc. of IEEE ICACT2018, February 2018.</li>
+                        <li>- Nguyen Toan Van, Beongku An, "An Energy Efficient Protocol to Extend Network Lifetime and Increase Transmission Efficiency for Wireless Sensor Networks," Proc. of ICGHIT 2018, January-February 2018.</li>
+                        <li>- Kyusung Shim, Tri Nhu Do, Sang-Yep Nam, Beongku An, "A Wireless Power Transfer-based Routing Protocol for Hetergeneous Wireless Networks," Proc. of ICGHIT 2018, January-February 2018.</li>
+                        <li>- Tri Nhu Do,  Beongku An, "Optimal Sum-Thrughput Analysis for Downlink Cooperative SWIPT NOMA Systems," Proc. of IEEE SigTelCom 2018, January 2018.</li>
                         <li>- Nhu Tri Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, “ Transmit Antenna Selection Schemes for MISO-NOMA Cooperative Downlink Transmissions with Hybrid SWIPT Protocol,” Proc. of IEEE ICC 2017, May 2017.</li>
                         <li>- Quang Nhat Le, Vo Nguyen Quoc Bao, Beongku An, "Outage analysis of Distributed Switch and Stay Selection Relaying Half Duplex Network with imperfect CSI," Proc. of ICGHIT 2017, February 2017.</li>
                         <li>- Kyuhyun Shim, Beongku An, "MILD based Transmission Range Routing Protocol in Mobile Ad-hoc Wireless Sensor Networks," Proc. of ICGHIT 2017, February 2017.</li>
                         <li>- Kyusung Shim, Nhu Tri Do, Beongku An, "A Source Relay Selection Scheme for Physical Layer Security in Multi-User Multi-Relay Amplify-and-Forward Cooperative Networks," Proc. of ICGHIT 2017, February 2017.</li>
                         <li>- YongSoo Choi, Beongku An, Do-Hyeon Kim, "Virtually Extended 2D Color Map Utilizing Color Quantization," Proc. of ICGHIT 2017, February 2017.</li>
+                        <li>- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Beongku An, "Opportunistic Scheduling for Fixed-gain Amplify-and-Forward-based Multiuser Multirelay SWIPT Cooperative Networks," Proc. of IEEE SigTelCom 2017, January 2017.</li>
+                        <li>- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Beongku An, "A Full-Duplex Cooperative Scheme with Distributed Switch-and-Stay Combining for NOMA Networks," Proc. of IEEE Globecom 2017,  December 2017.</li>
+                        <li>- Tri Nhu Do, Beongku An, "Finding Optimal Power Splitting Ratio for Cooperative SWIPT NOMA Systems," Proc. of ICONI 2017, December 2017.</li>
                         <li>- Kyusung Shim, Nhu Tri Do, Beongku An, "Optimal Joint Source and Relay Selection Scheme for Physical Layer Security in Multi-User and Multi-Relay Networks," Proc. of ICONI 2016, December 2016.</li>
                         <li>- Le The Dung, Tran Dinh Hieu, Beongku An, Byung-Seo Kim, "How Does Beamforming Influence the Connectivity of Cognitive Radio Ad-hoc Networks ?," Proc. of IS3C2016, July 2016.</li>
                         <li>- Le The Dung, Seungwan Jo, Beongku An, "Demonstration of Low-Complexity LED-to-LED Two-way Visible Light Communication System," Proc. of IS3C2016, July 2016..</li>

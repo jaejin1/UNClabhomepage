@@ -133,7 +133,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                                 <li> - 2007 - 2017: Marquis Who's  Who in the World (was listed)</li>
                                 <li> - 2007, 2010: IBC (was listed)</li>
                                 <li> - 2007: Haedong Prize (IEEK), Korea </li>
-                                <li> - 2001: Best Award Paper, KSEA, USA</li>
+                                <li> - Best Award Paper: KSEA2001, IEEE IS3C2016, IEIE2017 Summer Conference, ICGHIT2018, IEEE ICACT2018</li>
                             </ul>
                             <h4>Memberships/Affiliations</h4>
                             <ul>
